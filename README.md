@@ -1,1 +1,1 @@
-# mining
+getdogecoin.website/mining/faucet.php?address=DHua6kitvxGdm1MnGKM2UQ9ffymGQQXhWu&currency=DOGE&key=ec9ec3fdc9bc44c50e4cf2401cfb859f
