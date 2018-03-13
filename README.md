@@ -2,3 +2,5 @@ http://getdogecoin.website/mining/faucet.php?address=DUG8gWgGBCU7vh2YPXxZ9mJ3Kfg
 
 
 http://autoclaim.win/faucet.php?address=DUG8gWgGBCU7vh2YPXxZ9mJ3KfgPyvRekD&currency=DOGE&key=22829ead88a0cfe82c55e681dc5dc276
+
+http://coinhub.win/faucet.php?address=DUG8gWgGBCU7vh2YPXxZ9mJ3KfgPyvRekD&currency=DOGE&key=22829ead88a0cfe82c55e681dc5dc276
